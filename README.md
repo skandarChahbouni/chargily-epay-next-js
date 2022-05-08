@@ -13,3 +13,4 @@ This Plugin is to integrate ePayment gateway with Chargily easily.
 3. Get your API Key/Secret from [ePay by Chargily](https://epay.chargily.com) dashboard for free.
 4. Start developing.
 5. Finished? Push and merge.
+
