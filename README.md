@@ -5,7 +5,7 @@ Next.js Package for Chargily ePay Gateway
 
 This Plugin is to integrate ePayment gateway with Chargily easily.
 - Currently support payment by **CIB / EDAHABIA** cards and soon by **Visa / Mastercard** 
-- This repo is recently created for **React.Js Package**, If you are a developer and want to collaborate to the development of this package, you are welcomed!
+- This repo is recently created for **Next.Js Package**, If you are a developer and want to collaborate to the development of this package, you are welcomed!
 
 # Contribution tips
 1. Make a fork of this repo.
