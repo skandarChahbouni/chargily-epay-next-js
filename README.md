@@ -6,6 +6,7 @@ I hope you will like the package and i am available if you have any issues.
 
 Big thank's to chargily for this great competition!
 
+this package work with both next and recat js.
 
 ### Tech Stack
 
