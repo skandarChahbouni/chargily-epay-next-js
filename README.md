@@ -8,11 +8,6 @@ Big thank's to chargily for this great competition!
 
 this package work with both next and recat js.
 
-### Tech Stack
-
-**Client:** React, Redux, TailwindCSS, Next js
-
-**Server:** Node, Express
 
 
 
